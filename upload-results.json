@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-01-06T17:49:51.803Z",
+  "email": "drasifbtm@gmail.com",
+  "cid": "bafybeigazrwjdioizirn6dbqoohotyvcuxbtwvzokuqrz7zljb4pvjrrnm",
+  "fileName": "storacha-test.txt",
+  "fileSize": 750,
+  "gatewayUrls": {
+    "ipfs": "https://ipfs.io/ipfs/bafybeigazrwjdioizirn6dbqoohotyvcuxbtwvzokuqrz7zljb4pvjrrnm/storacha-test.txt",
+    "w3s": "https://w3s.link/ipfs/bafybeigazrwjdioizirn6dbqoohotyvcuxbtwvzokuqrz7zljb4pvjrrnm/storacha-test.txt",
+    "dweb": "ipfs://bafybeigazrwjdioizirn6dbqoohotyvcuxbtwvzokuqrz7zljb4pvjrrnm/storacha-test.txt"
+  }
+}

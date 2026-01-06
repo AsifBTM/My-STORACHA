@@ -1,0 +1,21 @@
+╔════════════════════════════════════════╗
+║   Storacha Upload Test File           ║
+╚════════════════════════════════════════╝
+
+Upload Date: 2026-01-06T17:49:41.471Z
+Uploaded by: drasifbtm@gmail.com
+
+This is a test file uploaded to Storacha using the JavaScript client.
+
+🌟 Storacha Features:
+- Decentralized storage
+- IPFS-backed infrastructure
+- Content addressing with CIDs
+- Easy JavaScript integration
+- Secure and reliable
+
+📊 File Information:
+- Format: Plain Text
+- Purpose: Testing Storacha upload functionality
+
+✨ Successfully uploaded to the decentralized web!
